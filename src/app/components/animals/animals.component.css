@@ -19,7 +19,7 @@ table.table {
 /* Estilo de encabezados */
 .table thead th {
     background-color: #f66868;
-    color: #ffffff;
+    color: #e0d5d5;
     padding: 12px;
     text-align: left;
     border-bottom: 2px solid #ddd;
